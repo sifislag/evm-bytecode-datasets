@@ -1,0 +1,1 @@
+{"md5_bytecode": "0ce647bfd60f439cd202b06619319127", "function_debug_info": {"fun_mulUp": {"id": 265, "entryPoint": 2340, "returnSlots": 1, "parameterSlots": 2}, "fun_checkOwner": {"id": 73, "entryPoint": 1872, "returnSlots": 0, "parameterSlots": 0}, "fun_calculateFee": {"id": 585, "entryPoint": 1999, "returnSlots": 1, "parameterSlots": 2}}, "immutable_references": {}}

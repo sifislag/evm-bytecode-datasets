@@ -1,0 +1,1 @@
+{"md5_bytecode": "d786ba4c962da195dc8e985165bbdf44", "function_debug_info": {"fun_checkOwner": {"id": 54, "entryPoint": 825, "returnSlots": 0, "parameterSlots": 0}, "storage_array_index_access_address_dyn": {"id": null, "entryPoint": 748, "returnSlots": 2, "parameterSlots": 1}}, "immutable_references": {}}
