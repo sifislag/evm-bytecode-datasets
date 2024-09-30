@@ -1,1 +1,1 @@
-{"md5_bytecode": "6734c3d11c5bd3501b31ee8a9d0e3c0e", "function_debug_info": {}, "immutable_references": {}}
+{"md5_bytecode": "6734c3d11c5bd3501b31ee8a9d0e3c0e", "function_debug_info": {}, "immutable_references": {}, "abi": [{"name": "executeProposal", "type": "function", "inputs": [], "outputs": [], "stateMutability": "nonpayable"}], "storage_layout": {"types": null, "storage": []}}

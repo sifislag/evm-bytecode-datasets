@@ -1,1 +1,1 @@
-{"md5_bytecode": "59e2c08facd317ed4b8fbac9efb4b6a4", "function_debug_info": {}, "immutable_references": {}}
+{"md5_bytecode": "59e2c08facd317ed4b8fbac9efb4b6a4", "function_debug_info": {}, "immutable_references": {}, "abi": [{"type": "constructor", "inputs": [{"name": "implementation", "type": "address", "internalType": "address"}], "stateMutability": "nonpayable"}, {"type": "fallback", "stateMutability": "payable"}], "storage_layout": {"types": null, "storage": []}}

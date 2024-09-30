@@ -1,1 +1,1 @@
-{"md5_bytecode": "2bbefe72b51e7a7be41305195a9f1d2b", "function_debug_info": {}, "immutable_references": {}}
+{"md5_bytecode": "2bbefe72b51e7a7be41305195a9f1d2b", "function_debug_info": {}, "immutable_references": {}, "abi": [{"name": "data", "type": "function", "inputs": [], "outputs": [{"name": "", "type": "string", "internalType": "string"}], "stateMutability": "view"}], "storage_layout": {"types": null, "storage": []}}

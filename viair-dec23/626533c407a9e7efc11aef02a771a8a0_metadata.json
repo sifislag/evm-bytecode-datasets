@@ -1,1 +1,1 @@
-{"md5_bytecode": "626533c407a9e7efc11aef02a771a8a0", "function_debug_info": {}, "immutable_references": {}}
+{"md5_bytecode": "626533c407a9e7efc11aef02a771a8a0", "function_debug_info": {}, "immutable_references": {}, "abi": [{"name": "getWaves", "type": "function", "inputs": [], "outputs": [{"name": "", "type": "bytes", "internalType": "bytes"}], "stateMutability": "pure"}], "storage_layout": {"types": null, "storage": []}}

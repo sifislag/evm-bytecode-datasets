@@ -1,1 +1,1 @@
-{"md5_bytecode": "6bc74ba073b33a3383a622200aebc0ca", "function_debug_info": {}, "immutable_references": {}}
+{"md5_bytecode": "6bc74ba073b33a3383a622200aebc0ca", "function_debug_info": {}, "immutable_references": {}, "abi": [{"name": "getLogo", "type": "function", "inputs": [], "outputs": [{"name": "", "type": "bytes", "internalType": "bytes"}], "stateMutability": "pure"}], "storage_layout": {"types": null, "storage": []}}

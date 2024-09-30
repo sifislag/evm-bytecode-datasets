@@ -1,1 +1,1 @@
-{"md5_bytecode": "b44a090f0380e011fdae0ef843a6894f", "function_debug_info": {}, "immutable_references": {}}
+{"md5_bytecode": "b44a090f0380e011fdae0ef843a6894f", "function_debug_info": {}, "immutable_references": {}, "abi": [{"name": "UnsupportedProtocolError", "type": "error", "inputs": []}, {"type": "fallback", "stateMutability": "nonpayable"}], "storage_layout": {"types": null, "storage": []}}
