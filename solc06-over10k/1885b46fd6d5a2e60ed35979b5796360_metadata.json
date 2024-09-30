@@ -1,1 +1,1 @@
-{"md5_bytecode": "1885b46fd6d5a2e60ed35979b5796360", "function_debug_info": {}, "immutable_references": {}}
+{"md5_bytecode": "1885b46fd6d5a2e60ed35979b5796360", "function_debug_info": {}, "immutable_references": {}, "abi": [{"type": "fallback", "stateMutability": "nonpayable"}], "storage_layout": {"types": null, "storage": []}}

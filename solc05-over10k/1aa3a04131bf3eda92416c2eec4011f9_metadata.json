@@ -1,1 +1,1 @@
-{"md5_bytecode": "1aa3a04131bf3eda92416c2eec4011f9", "function_debug_info": {}, "immutable_references": {}}
+{"md5_bytecode": "1aa3a04131bf3eda92416c2eec4011f9", "function_debug_info": {}, "immutable_references": {}, "abi": [{"name": "newFlip", "type": "function", "inputs": [{"name": "vat", "type": "address", "internalType": "address"}, {"name": "ilk", "type": "bytes32", "internalType": "bytes32"}], "outputs": [{"name": "flip", "type": "address", "internalType": "contract Flipper"}], "payable": false, "constant": false, "stateMutability": "nonpayable"}], "storage_layout": {}}

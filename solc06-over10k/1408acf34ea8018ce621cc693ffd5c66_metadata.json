@@ -1,1 +1,1 @@
-{"md5_bytecode": "1408acf34ea8018ce621cc693ffd5c66", "function_debug_info": {}, "immutable_references": {}}
+{"md5_bytecode": "1408acf34ea8018ce621cc693ffd5c66", "function_debug_info": {}, "immutable_references": {}, "abi": [{"name": "poke", "type": "function", "inputs": [], "outputs": [], "stateMutability": "nonpayable"}], "storage_layout": {"types": null, "storage": []}}

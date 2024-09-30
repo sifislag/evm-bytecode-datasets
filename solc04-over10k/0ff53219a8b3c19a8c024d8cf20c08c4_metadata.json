@@ -1,1 +1,1 @@
-{"md5_bytecode": "0ff53219a8b3c19a8c024d8cf20c08c4", "function_debug_info": {}, "immutable_references": {}}
+{"md5_bytecode": "0ff53219a8b3c19a8c024d8cf20c08c4", "function_debug_info": {}, "immutable_references": {}, "abi": [{"name": "transferInitialTokens", "type": "function", "inputs": [], "outputs": [], "payable": false, "constant": false, "stateMutability": "nonpayable"}, {"type": "constructor", "inputs": [{"name": "_tokenContract", "type": "address"}], "payable": false, "stateMutability": "nonpayable"}], "storage_layout": {}}
