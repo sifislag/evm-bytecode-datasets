@@ -1,0 +1,1 @@
+{"md5_bytecode": "ca58b485686b1371bd75806c98d56cf3", "function_debug_info": {}, "immutable_references": {}, "abi": [{"name": "getVersionBeacon", "type": "function", "inputs": [], "outputs": [{"name": "versionBeacon", "type": "address", "internalType": "address"}], "stateMutability": "pure"}], "storage_layout": {"types": null, "storage": []}}

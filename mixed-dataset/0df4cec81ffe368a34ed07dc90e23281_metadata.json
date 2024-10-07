@@ -1,0 +1,1 @@
+{"md5_bytecode": "0df4cec81ffe368a34ed07dc90e23281", "function_debug_info": {}, "immutable_references": {}, "abi": [{"name": "multiSend", "type": "function", "inputs": [{"name": "transactions", "type": "bytes", "internalType": "bytes"}], "outputs": [], "stateMutability": "payable"}], "storage_layout": {"types": null, "storage": []}}

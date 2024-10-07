@@ -1,0 +1,1 @@
+{"md5_bytecode": "e17b5a60d460c1cf60acdcb2fb377134", "function_debug_info": {}, "immutable_references": {}, "abi": [{"type": "fallback", "stateMutability": "payable"}, {"name": "send", "type": "function", "inputs": [{"name": "addrs", "type": "address[]", "internalType": "address[]"}], "outputs": [], "stateMutability": "payable"}], "storage_layout": {"types": null, "storage": []}}
